@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Macias97
-- 👀 I’m interested in adventures.
+- 👋 Hi, I’m Maciej
+- 👀 I’m interested in many things.
 - 🌱 I’m currently learning front-end web dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
